@@ -1,0 +1,47 @@
+{
+  "title": "Website Revenue Calculator",
+  "subtitle": "Calculate the resources needed to achieve your monthly revenue goals",
+  "basicParameters": {
+    "title": "Basic Parameters",
+    "monthlyIncome": "Monthly Income Target ($)",
+    "websiteCount": "Number of Websites",
+    "keywordsPerWebsite": "Keywords per Website"
+  },
+  "revenueParameters": {
+    "title": "Revenue Parameters",
+    "adRevenue": "Ad Revenue per 1000 Pageviews ($)",
+    "saasRevenue": "SaaS Revenue per 1000 Visitors ($)",
+    "pageviews": "Pageviews per Visitor",
+    "ctr": "Current Click-Through Rate: {{rate}}%"
+  },
+  "seoParameters": {
+    "title": "SEO Parameters",
+    "rankingPosition": "Target Ranking Position",
+    "keywordDifficulty": "Keyword Difficulty (KD)"
+  },
+  "results": {
+    "title": "Calculation Results",
+    "daily": {
+      "title": "Daily Requirements",
+      "incomeTarget": "Income Target",
+      "visitors": "Visitors per Website",
+      "pageViews": "Page Views per Website",
+      "searchVolume": "Keyword Search Volume"
+    },
+    "revenue": {
+      "title": "Revenue Metrics",
+      "perUser": "Revenue per User",
+      "annual": "Annual Revenue",
+      "roi": "ROI"
+    },
+    "backlinks": {
+      "title": "Backlink Strategy",
+      "perWebsite": "Backlinks per Website",
+      "cost": "Cost per Website",
+      "averageCost": "Average Cost per Backlink"
+    }
+  },
+  "language": {
+    "switch": "切换到中文"
+  }
+}

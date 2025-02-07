@@ -1,0 +1,47 @@
+{
+  "title": "网站收入计算器",
+  "subtitle": "计算实现月收入目标所需的资源",
+  "basicParameters": {
+    "title": "基本参数",
+    "monthlyIncome": "月收入目标（$）",
+    "websiteCount": "网站数量",
+    "keywordsPerWebsite": "每个网站关键词数"
+  },
+  "revenueParameters": {
+    "title": "收入参数",
+    "adRevenue": "每千次页面浏览广告收入（$）",
+    "saasRevenue": "每千访客SaaS收入（$）",
+    "pageviews": "每位访客页面浏览量",
+    "ctr": "当前点击率：{{rate}}%"
+  },
+  "seoParameters": {
+    "title": "SEO参数",
+    "rankingPosition": "目标排名位置",
+    "keywordDifficulty": "关键词难度（KD）"
+  },
+  "results": {
+    "title": "计算结果",
+    "daily": {
+      "title": "每日需求",
+      "incomeTarget": "收入目标",
+      "visitors": "每个网站访客数",
+      "pageViews": "每个网站页面浏览量",
+      "searchVolume": "关键词搜索量"
+    },
+    "revenue": {
+      "title": "收入指标",
+      "perUser": "每用户收入",
+      "annual": "年度收入",
+      "roi": "投资回报率"
+    },
+    "backlinks": {
+      "title": "外链策略",
+      "perWebsite": "每个网站外链数",
+      "cost": "每个网站成本",
+      "averageCost": "平均每个外链成本"
+    }
+  },
+  "language": {
+    "switch": "Switch to English"
+  }
+}
